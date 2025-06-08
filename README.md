@@ -1,7 +1,7 @@
 # EntityFramework Reverse POCO Generator UI
 A simple UI to allow you to easily select which tables you want the EntityFramework Reverse POCO Code First Generator to use.
 
-![UI Principal]([asset/ui_front.png](https://github.com/joseantonioneves/ReversePOCOGenerator/blob/development/Asset/ui_front.png))
+![UI Principal](https://github.com/joseantonioneves/ReversePOCOGenerator/blob/development/Asset/ui_front.png)
 
 ## How to use
 
