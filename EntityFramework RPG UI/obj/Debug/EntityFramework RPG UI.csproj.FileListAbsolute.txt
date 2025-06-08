@@ -1,0 +1,13 @@
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\bin\Debug\EntityFramework RPG UI.exe.config
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\bin\Debug\EntityFramework RPG UI.exe
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\bin\Debug\EntityFramework RPG UI.pdb
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\bin\Debug\Microsoft.Data.ConnectionUI.dll
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\obj\Debug\EntityFramework RPG UI.csprojAssemblyReference.cache
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\obj\Debug\EntityFramework_RPG_UI.Form1.resources
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\obj\Debug\EntityFramework_RPG_UI.Properties.Resources.resources
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\obj\Debug\EntityFramework RPG UI.csproj.GenerateResource.cache
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\obj\Debug\EntityFramework RPG UI.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\obj\Debug\EntityFramework RPG UI.csproj.CopyComplete
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\obj\Debug\EntityFramework RPG UI.exe
+C:\Users\José Antonio\source\repos\EntityFramework-Reverse-POCO-Generator-UI-master\EntityFramework RPG UI\obj\Debug\EntityFramework RPG UI.pdb
